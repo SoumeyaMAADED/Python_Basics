@@ -5,7 +5,7 @@
 # Initialisez une deuxième aire variable pour écrire la valeur de la face du rectangle obtenue par la formule a * b. 
 # Imprimez le résultat.
 
-# Dans l'exercice de SoftUni, on écrira plutôt les données dans la console qu'on éxécutera au fur et à mesure (avec le bouton play en haut" Exécuter le fichier python dans le terminal dédié ), afin d'afficher le résultat.
+# Dans l'exercice de SoftUni, on écrira plutôt les données dans la console qu'on éxécutera au fur et à mesure (avec le bouton play en haut "Exécuter le fichier python dans le terminal dédié"), afin d'afficher le résultat.
 
 # a = int(input())
 # b = int(input())
